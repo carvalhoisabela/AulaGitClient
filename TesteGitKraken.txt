@@ -1,1 +1,2 @@
 Arquivo criado para o trabalho do git 
+kraken para pull 
